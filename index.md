@@ -2,7 +2,7 @@ Hello, my name is Sai. I look forward to learning about data science here.
 
 ## Welcome to GitHub Pages
 
-open[my resume](resume.txt)
+[Click here to see my resume](resume.txt)
 
 You can use the [editor on GitHub](https://github.com/saidatascience/saidatascience.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
